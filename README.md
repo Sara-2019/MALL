@@ -1,2 +1,3 @@
-# MALL
-商城demo
+# MiMall
+
+小米 
